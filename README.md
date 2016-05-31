@@ -16,19 +16,19 @@ The following set of user stories are implemented in `/terrible`:
 ```
 As a user
 So I can get my clothes dry-cleaned
-I want to phone a dry-cleaner to pick up my clothes
+I want to get a dry-cleaner to pick up my clothes
 ```
 
 ```
 As a dry cleaner
 So I can pick up clothes from a customer
-I want to get a named van person to pick them up
+I want to get a named van driver to pick them up
 ```
 
 ```
 As a van person
 So I can hire a van to pick up clothes
-I want to phone the van company and get a van
+I want to get a van
 ```
 
 ```
@@ -39,6 +39,6 @@ I want to only hire out vans that are working
 
 ```
 As a customer
-If everything goes smoothly
+So that I know everything goes smoothly
 I want a message that confirms my clothes will be picked up
 ```
