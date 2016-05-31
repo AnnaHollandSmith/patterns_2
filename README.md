@@ -22,7 +22,7 @@ I want to phone a dry-cleaner to pick up my clothes
 ```
 As a dry cleaner
 So I can pick up clothes from a customer
-I want to phone a named van person to pick them up
+I want to get a named van person to pick them up
 ```
 
 ```
